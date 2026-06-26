@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+pymysql
+boto3
+awscli
+psycopg2-binary
